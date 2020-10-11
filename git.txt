@@ -4,4 +4,6 @@ In this step I create new branch using the  ubuntu 20.20 terminal with below com
 2. For switching between branches: git switch newBranch1
 
 In this stage we have alredy known how to merge two branch into one. For doing this use the command below:
-git merge newBranch2Merge
+git merge newBranch2Merge 
+
+Now i'm trying to add some canges into newBranch2Merge and rebase it to master

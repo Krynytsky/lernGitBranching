@@ -1,1 +1,4 @@
 Hello everyone. Today I'going to improve my skills on git, with Learngitbranching.js.org
+In this step I create new branch using the  ubuntu 20.20 terminal with below commands:
+1. for creating new branch: git branch --create newBranch1
+2. For switching between branches: git switch newBranch1
